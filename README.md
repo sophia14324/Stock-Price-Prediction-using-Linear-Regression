@@ -14,4 +14,10 @@ SPY was used to obtain the data used in this project. SPY is the ticker symbol f
 
 As an ETF, SPY is traded on stock exchanges like a stock, and it can be bought and sold through a broker. The price of SPY is based on the value of the stocks in the S&P 500 index, and it is intended to provide investors with a return that is similar to the performance of the underlying index.
 
+### Result
 ![price_prediction](https://github.com/sophia14324/Stock-Price-Prediction-using-Linear-Regression/blob/main/price_prediction.png)
+
+#### Limitations of the model
+Simple linear regression is not the best strategy to predict stock prices (it will not make you a lot of money) since not all stocks increase linearly over time. Any random and unforeseen event will cause this linear regression model to collapse.
+
+
